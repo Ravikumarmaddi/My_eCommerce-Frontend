@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+The backend(Spring Boot) part of this project is: https://github.com/Ravikumarmaddi/My_eCommerce-Backend
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
